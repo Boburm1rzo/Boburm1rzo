@@ -40,6 +40,6 @@
     <br/>
 <div align=center>
     <img width=390 align=center  src="https://github-readme-stats.vercel.app/api?username=boburm1rzo&count_private=true&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="boburm1rzo" />
-    <img width=390 align=center src="https://github-readme-streak-stats.herokuapp.com/?user=boburm1rzo&count_private=true&theme=react&border_radius=10" alt="boburm1rzo" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=boburm1rzo&count_private=true&theme=react&border_radius=10" alt="boburm1rzo" />
   </div>
 
