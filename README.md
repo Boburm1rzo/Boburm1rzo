@@ -30,7 +30,7 @@
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align=center>
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,github,postgres,visualstudio,windows,mysql" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,github,postgres,visualstudio,windows,mysql,postman" />
   </div>
   <h2 align="center">⚡ Stats ⚡</h2>
   <br/>
