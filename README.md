@@ -12,7 +12,7 @@
  
  👨‍🎓 I’m currently studing on **Tashkent University of Information Technologies**
  
- 🖥️ I’m currently learning **.NET, C#, WPF, ASP.NET core**
+ 🖥️ I’m currently learning **.NET, C#, WPF, ASP.NET, JS, React, Typescript core**
 
  </div>
 
@@ -23,7 +23,6 @@
   <a href="https://linkedin.com/in/Boburm1rzo-Boboyev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
- 
 </div>
  <hr/>
 
