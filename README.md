@@ -31,7 +31,7 @@
 <div align=center>
     <img src="https://skillicons.dev/icons?i=cs,dotnet,github,postgres,visualstudio,windows,mysql,postman,vscode" />
   </div>
-  <h2 align="center">⚡ Stats ⚡</h2>
+  <h2 align="center">⚡ STATS ⚡</h2>
   <br/>
 <div align=center>
    <img align=center width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=boburm1rzo&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="boburm1rzo" />
