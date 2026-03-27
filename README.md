@@ -32,4 +32,3 @@
     <img src="https://skillicons.dev/icons?i=cs,dotnet,github,postgres,visualstudio,windows,mysql,postman,vscode" />
   </div>
  
-
