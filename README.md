@@ -12,7 +12,7 @@
  
  👨‍🎓 I’m currently studing on **Tashkent University of Information Technologies**
  
- 🖥️ I’m currently learning **.NET, C#, WPF, ASP.NET, JS, React, Typescript core**
+ 🖥️ My stack of technologies **.NET, C#, WPF, ASP.NET, JS, React, Typescript core**
 
  </div>
 
